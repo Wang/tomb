@@ -2,7 +2,7 @@ package tomb_test
 
 import (
 	"errors"
-	"gopkg.in/tomb.v1"
+	"github.com/Wang/tomb"
 	"reflect"
 	"testing"
 )
